@@ -39,6 +39,6 @@ background: linear-gradient(180deg, rgba(157,242,6,0.36738445378151263) 0%, rgba
 
 /* Skills */
 
-#skills{ padding: 14% 2%; background-color: #feffde;}
+#skills{ padding: 14% 2%; background-color: #feffde; text-align: center;}
 
 .skill-set{padding: 5%; font-size: 2rem; font-weight: bold; }
